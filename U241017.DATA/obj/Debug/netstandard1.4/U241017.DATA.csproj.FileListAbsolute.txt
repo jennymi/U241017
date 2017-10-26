@@ -1,0 +1,18 @@
+C:\Users\Jenny\Documents\programmeringsuppgifter\New U241017\U241017A\U241017.DATA\bin\Debug\netstandard1.4\U241017.DATA.deps.json
+C:\Users\Jenny\Documents\programmeringsuppgifter\New U241017\U241017A\U241017.DATA\bin\Debug\netstandard1.4\U241017.DATA.dll
+C:\Users\Jenny\Documents\programmeringsuppgifter\New U241017\U241017A\U241017.DATA\bin\Debug\netstandard1.4\U241017.DATA.pdb
+C:\Users\Jenny\Documents\programmeringsuppgifter\New U241017\U241017A\U241017.DATA\obj\Debug\netstandard1.4\U241017.DATA.csproj.CoreCompileInputs.cache
+C:\Users\Jenny\Documents\programmeringsuppgifter\New U241017\U241017A\U241017.DATA\obj\Debug\netstandard1.4\U241017.DATA.AssemblyInfoInputs.cache
+C:\Users\Jenny\Documents\programmeringsuppgifter\New U241017\U241017A\U241017.DATA\obj\Debug\netstandard1.4\U241017.DATA.AssemblyInfo.cs
+C:\Users\Jenny\Documents\programmeringsuppgifter\New U241017\U241017A\U241017.DATA\obj\Debug\netstandard1.4\U241017.DATA.dll
+C:\Users\Jenny\Documents\programmeringsuppgifter\New U241017\U241017A\U241017.DATA\obj\Debug\netstandard1.4\U241017.DATA.pdb
+C:\Users\Jenny\Documents\programmeringsuppgifter\New U241017\U241017A\U241017.DATA\obj\Debug\netstandard1.4\U241017.DATA.csprojResolveAssemblyReference.cache
+C:\Users\Jenny\Documents\programmeringsuppgifter\U241017A\U241017.DATA\bin\Debug\netstandard1.4\U241017.DATA.deps.json
+C:\Users\Jenny\Documents\programmeringsuppgifter\U241017A\U241017.DATA\bin\Debug\netstandard1.4\U241017.DATA.dll
+C:\Users\Jenny\Documents\programmeringsuppgifter\U241017A\U241017.DATA\bin\Debug\netstandard1.4\U241017.DATA.pdb
+C:\Users\Jenny\Documents\programmeringsuppgifter\U241017A\U241017.DATA\obj\Debug\netstandard1.4\U241017.DATA.csprojResolveAssemblyReference.cache
+C:\Users\Jenny\Documents\programmeringsuppgifter\U241017A\U241017.DATA\obj\Debug\netstandard1.4\U241017.DATA.csproj.CoreCompileInputs.cache
+C:\Users\Jenny\Documents\programmeringsuppgifter\U241017A\U241017.DATA\obj\Debug\netstandard1.4\U241017.DATA.AssemblyInfoInputs.cache
+C:\Users\Jenny\Documents\programmeringsuppgifter\U241017A\U241017.DATA\obj\Debug\netstandard1.4\U241017.DATA.AssemblyInfo.cs
+C:\Users\Jenny\Documents\programmeringsuppgifter\U241017A\U241017.DATA\obj\Debug\netstandard1.4\U241017.DATA.dll
+C:\Users\Jenny\Documents\programmeringsuppgifter\U241017A\U241017.DATA\obj\Debug\netstandard1.4\U241017.DATA.pdb

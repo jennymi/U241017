@@ -1,0 +1,15 @@
+﻿
+@{
+    ViewBag.Title = "Bookings";
+}
+
+<h2>Show Bookings</h2>
+
+<ul>
+    @foreach (var item in Model)
+    {
+        <li>@item.Event i @item.Place den (@item.Time). Deltagare: @item.Name @Html.ActionLink("Remove", "RemoveProduct", new { id = item.Id }) </li>
+    }
+</ul>
+<hr />
+@Html.ActionLink("Lägg till en produkt", "NewBooking")
